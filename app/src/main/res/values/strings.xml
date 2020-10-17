@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+   
+   
+	
+   
+   <string name="app_name">Coffee Store</string>
+   <string name="toppings">TOPPINGS</string>
+   <string name="whipped_cream">Whipped cream</string>
+   <string name="chocolate">Chocolate</string>
+   <string name="name">NAME</string>
+   <string name="quantity">QUANTITY</string>
+   <string name="order">Order</string>
+</resources>
